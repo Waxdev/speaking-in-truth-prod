@@ -1,0 +1,76 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-e2a5f33f71d686096e1d.js",
+      "component---src-pages-index-js-e2a5f33f71d686096e1d.js.map"
+    ],
+    "path---pandas-and-bananas-2": [
+      "path---pandas-and-bananas-2-57587ffe192004099fbd.js",
+      "path---pandas-and-bananas-2-57587ffe192004099fbd.js.map"
+    ],
+    "path---sweet-pandas-eating-sweets-bis": [
+      "path---sweet-pandas-eating-sweets-bis-0a12fb90b1806e81a6ff.js",
+      "path---sweet-pandas-eating-sweets-bis-0a12fb90b1806e81a6ff.js.map"
+    ],
+    "path---pandas-and-bananas-bis-2": [
+      "path---pandas-and-bananas-bis-2-5778fcd98a5faf6c4427.js",
+      "path---pandas-and-bananas-bis-2-5778fcd98a5faf6c4427.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---pandas-and-bananas-1": [
+      "path---pandas-and-bananas-1-102a8f07a8fe2b9abc79.js",
+      "path---pandas-and-bananas-1-102a8f07a8fe2b9abc79.js.map"
+    ],
+    "path---pandas-and-bananas-bis": [
+      "path---pandas-and-bananas-bis-3cd929f77b5bbf8a194b.js",
+      "path---pandas-and-bananas-bis-3cd929f77b5bbf8a194b.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-2206f3a6a3a47641ff43.js",
+      "component---src-layouts-index-js-2206f3a6a3a47641ff43.js.map"
+    ],
+    "path---index": [
+      "path---index-f3b8fbb0734559da3c46.js",
+      "path---index-f3b8fbb0734559da3c46.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-cd51d374be13da4bdeeb.js",
+      "component---src-pages-404-js-cd51d374be13da4bdeeb.js.map"
+    ],
+    "commons": [
+      "commons-c8d94937bd5e382221cb.js",
+      "commons-c8d94937bd5e382221cb.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---pandas-and-bananas": [
+      "path---pandas-and-bananas-23b179c25e85b0517846.js",
+      "path---pandas-and-bananas-23b179c25e85b0517846.js.map"
+    ],
+    "component---src-templates-post-js": [
+      "component---src-templates-post-js-e35124e6476707e1c968.js",
+      "component---src-templates-post-js-e35124e6476707e1c968.js.map"
+    ],
+    "path---pandas-and-bananas-bis-1": [
+      "path---pandas-and-bananas-bis-1-b6f40b0e63a3b6cf51fa.js",
+      "path---pandas-and-bananas-bis-1-b6f40b0e63a3b6cf51fa.js.map"
+    ],
+    "path---sweet-pandas-eating-sweets": [
+      "path---sweet-pandas-eating-sweets-5dacf4a93d5011b96ca3.js",
+      "path---sweet-pandas-eating-sweets-5dacf4a93d5011b96ca3.js.map"
+    ],
+    "app": [
+      "app-c1eb5b326353b08f625c.js",
+      "app-c1eb5b326353b08f625c.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
